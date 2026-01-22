@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": " //tabungan-annisa.github.io/TabunganGajiAnnisa/static/css/main.f4c06cd1.css",
+    "main.js": " //tabungan-annisa.github.io/TabunganGajiAnnisa/static/js/main.c3165646.js",
+    "static/js/453.d7446e4a.chunk.js": " //tabungan-annisa.github.io/TabunganGajiAnnisa/static/js/453.d7446e4a.chunk.js",
+    "static/media/header-anisa.jpg": " //tabungan-annisa.github.io/TabunganGajiAnnisa/static/media/header-anisa.ebf953eaf0e06ba07d25.jpg",
+    "static/media/logo_web.png": " //tabungan-annisa.github.io/TabunganGajiAnnisa/static/media/logo_web.596acc1ecfbed627a550.png",
+    "index.html": " //tabungan-annisa.github.io/TabunganGajiAnnisa/index.html",
+    "main.f4c06cd1.css.map": " //tabungan-annisa.github.io/TabunganGajiAnnisa/static/css/main.f4c06cd1.css.map",
+    "main.c3165646.js.map": " //tabungan-annisa.github.io/TabunganGajiAnnisa/static/js/main.c3165646.js.map",
+    "453.d7446e4a.chunk.js.map": " //tabungan-annisa.github.io/TabunganGajiAnnisa/static/js/453.d7446e4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4c06cd1.css",
+    "static/js/main.c3165646.js"
+  ]
+}
